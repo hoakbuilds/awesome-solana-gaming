@@ -58,6 +58,7 @@ Table of Contents
 - [Solcery Games](https://solcery.xyz/)
 - [DeFi Land](https://defiland.app/)
 - [Solarity VR](https://www.solarity.xyz/)
+- [Scallop](https://www.scallop.io/)
 
 ### NFT Projects
 - [Kreechures](https://www.kreechures.com/)
@@ -65,7 +66,6 @@ Table of Contents
 - [SolanaMonkeyBusiness](https://www.solanamonkey.business/)
 - [Solarians](https://solarians.click/)
 - [Solania](https://solania.space/)
-- [Scallop](https://www.scallop.io/)
 - [Pixel Dudes](https://squidstuff.com/)
 
 ## Other projects building on Solana
