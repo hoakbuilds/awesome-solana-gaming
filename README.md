@@ -22,11 +22,11 @@ Table of Contents
       * [Resources](#resources)
          * [Official Resources](#official-resources)
          * [Unofficial Resources](#unofficial-resources)
-            * [Libraries & Frameworks](#libraries)
+            * [Libraries & Frameworks](#libraries--frameworks)
       * [Projects](#projects)
          * [Gaming Projects](#gaming-projects)
          * [NFT Projects](#nft-projects)
-      * [Other projects building on Solana](#projects-building-on-solana)
+      * [Other projects building on Solana](#other-projects-building-on-solana)
 
 ## Resources
 
