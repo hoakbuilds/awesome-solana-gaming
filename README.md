@@ -55,6 +55,9 @@ Table of Contents
 - [StarAtlas](https://staratlas.com/)
 - [Project SEED](https://projectseed.io/)
 - [Kaiju Cards](https://twitter.com/kaijucards)
+- [Solcery Games](https://solcery.xyz/)
+- [DeFi Land](https://defiland.app/)
+- [Solarity VR](https://www.solarity.xyz/)
 
 ### NFT Projects
 - [Kreechures](https://www.kreechures.com/)
