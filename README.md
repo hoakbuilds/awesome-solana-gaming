@@ -70,6 +70,7 @@ Table of Contents
 - [Solarians](https://solarians.click/)
 - [Solania](https://solania.space/)
 - [Pixel Dudes](https://squidstuff.com/)
+- [Blockasset](https://blockasset.co/)
 
 ## Other projects building on Solana
 see [solana.com/ecosystem](https://www.solana.com/ecosystem)
