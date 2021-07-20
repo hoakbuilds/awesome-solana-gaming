@@ -72,6 +72,7 @@ Table of Contents
 - [Solania](https://solania.space/)
 - [Pixel Dudes](https://squidstuff.com/)
 - [Blockasset](https://blockasset.co/)
+- [SOL BUBBLES](https://solbubbles.click/)
 
 ## Other projects building on Solana
 see [solana.com/ecosystem](https://www.solana.com/ecosystem)
