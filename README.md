@@ -60,6 +60,7 @@ Table of Contents
 - [Solarity VR](https://www.solarity.xyz/)
 - [Scallop](https://www.scallop.io/)
 - [NINJA PROTOCOL| Shadow of Vengeance](https://ninjaprotocol.io/)
+- [Sol Survivor](https://sol-talk.com/sol-survivor.io/)
 
 
 ### NFT Projects
