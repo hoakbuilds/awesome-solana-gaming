@@ -59,6 +59,8 @@ Table of Contents
 - [DeFi Land](https://defiland.app/)
 - [Solarity VR](https://www.solarity.xyz/)
 - [Scallop](https://www.scallop.io/)
+- [NINJA PROTOCOL| Shadow of Vengeance](https://ninjaprotocol.io/)
+
 
 ### NFT Projects
 - [Kreechures](https://www.kreechures.com/)
