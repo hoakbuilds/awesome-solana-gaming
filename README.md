@@ -61,6 +61,7 @@ Table of Contents
 - [Scallop](https://www.scallop.io/)
 - [NINJA PROTOCOL| Shadow of Vengeance](https://ninjaprotocol.io/)
 - [Krida Fans | Fantasy Sports](https://krida.fans)
+- [Sol Survivor](https://sol-talk.com/sol-survivor.io/)
 
 
 ### NFT Projects
@@ -70,6 +71,7 @@ Table of Contents
 - [Solarians](https://solarians.click/)
 - [Solania](https://solania.space/)
 - [Pixel Dudes](https://squidstuff.com/)
+- [Blockasset](https://blockasset.co/)
 
 ## Other projects building on Solana
 see [solana.com/ecosystem](https://www.solana.com/ecosystem)
