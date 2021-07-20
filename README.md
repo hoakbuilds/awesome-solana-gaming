@@ -60,6 +60,7 @@ Table of Contents
 - [Solarity VR](https://www.solarity.xyz/)
 - [Scallop](https://www.scallop.io/)
 - [NINJA PROTOCOL| Shadow of Vengeance](https://ninjaprotocol.io/)
+- [Krida Fans | Fantasy Sports](https://krida.fans)
 
 
 ### NFT Projects
