@@ -48,6 +48,7 @@ Table of Contents
 ## Projects
 
 ### Gaming Projects
+- [EizperChain](https://www.eizperchain.com/?utm_source=github&utm_medium=web&utm_campaign=awesome_solana+gaming&utm_term=alpha&utm_content=game)
 - [COPE | Games](https://games.unlimitedcope.com/)
 - [Kugle](https://kugle.org)
 - [Aurory Project](https://twitter.com/auroryproject)
