@@ -44,6 +44,7 @@ Table of Contents
 
 #### Libraries & Frameworks
 - [Unity Solana Wallet](https://github.com/allartprotocol/unity-solana-wallet)
+- [Gaming Metadata Standard](https://github.com/dinosols/GameContracts/tree/main/programs/game-metadata)
 
 ## Projects
 
@@ -63,6 +64,7 @@ Table of Contents
 - [NINJA PROTOCOL| Shadow of Vengeance](https://ninjaprotocol.io/)
 - [Krida Fans | Fantasy Sports](https://krida.fans)
 - [Sol Survivor](https://sol-talk.com/sol-survivor.io/)
+- [Dinosols](https://dinosols.app/)
 
 
 ### NFT Projects
