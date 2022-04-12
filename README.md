@@ -65,6 +65,7 @@ Table of Contents
 - [Krida Fans | Fantasy Sports](https://krida.fans)
 - [Sol Survivor](https://sol-talk.com/sol-survivor.io/)
 - [Dinosols](https://dinosols.app/)
+- [Solomon's Forest](https://solforest.games/)
 
 
 ### NFT Projects
@@ -76,6 +77,7 @@ Table of Contents
 - [Pixel Dudes](https://squidstuff.com/)
 - [Blockasset](https://blockasset.co/)
 - [SOL BUBBLES](https://solbubbles.click/)
+- [Solomon's Forest](https://solforest.games/)
 
 ## Other projects building on Solana
 see [solana.com/ecosystem](https://www.solana.com/ecosystem)
