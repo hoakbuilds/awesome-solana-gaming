@@ -66,6 +66,7 @@ Table of Contents
 - [Sol Survivor](https://sol-talk.com/sol-survivor.io/)
 - [Dinosols](https://dinosols.app/)
 - [Solomon's Forest](https://solforest.games/)
+- [Metaversium](https://metaversium.io/)
 
 
 ### NFT Projects
@@ -78,6 +79,7 @@ Table of Contents
 - [Blockasset](https://blockasset.co/)
 - [SOL BUBBLES](https://solbubbles.click/)
 - [Solomon's Forest](https://solforest.games/)
+- [Metaversium](https://metaversium.io/)
 
 ## Other projects building on Solana
 see [solana.com/ecosystem](https://www.solana.com/ecosystem)
